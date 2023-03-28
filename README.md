@@ -7,11 +7,12 @@ Dataset: London Weekday
 
 
 1) EDA (To choose important features is important)  
-  a) Features we are using  
+  a) Features we are using  (Total 7 features)
       Categorical: room_type, biz,  
       Numerical: person_capacity, bedrooms, dist, attr_index_norm, rest_index_norm
-  
-3) Choosing a [model]("https://scikit-learn.org/stable/modules/ensemble.html") to predict the price.  
+* To do: Add in justifications for the categorical/ numerical data we chose 
+
+2) Choosing a [model]("https://scikit-learn.org/stable/modules/ensemble.html") to predict the price.  
   a) Forests of Randomized Tree (Jonathan)  
   b) AdaBoost (Wei Siong)  
   c) Histogram-Based Gradient Boost (Kieran)  
