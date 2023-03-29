@@ -2,10 +2,10 @@
 
 ### Problem definition 
 Predict the price of AirBNB, then determine whether it is over/underprice. 
+Dataset: London Weekday from [Airbnb Price Determinants in Europe]("https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-in-europe")
 
-Dataset: London Weekday
 
-
+### Todos
 1) EDA (To choose important features is important)  
   a) Features we are using  (Total 7 features)
       Categorical: room_type, biz,  
