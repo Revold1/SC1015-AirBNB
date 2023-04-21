@@ -26,9 +26,10 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Models Used
 
-1. Forest of Randomized Trees 
-2. Adaptive Boosting
-3. Histogram Based Gradient Boosting
+Ensemble Models
+1. Forest of Randomized Trees (Bagging) 
+2. Adaptive Boosting (Boosting)
+3. Histogram Based Gradient Boosting (Boosting)
 
 |                          | Random Forest | AdaBoost | HistGradBoost | HistGradBoost (After Tuning) |
 |--------------------------|---------------|----------|---------------|------------------------------|
@@ -49,7 +50,7 @@ For detailed walkthrough, please view the source code in order from:
 - 3 new models: Adaboost, ForestofRandomizedTrees, HistGradBoost 
 - Troubleshooting the adaboost model 
 - Tuning of hyperparameters/ GridSearch 
-- 
+- New data visualization techniques such as pairplot
 
 ## References
 
