@@ -7,12 +7,12 @@ Dataset on Kaggle: Airbnb Price Determinants in Europe <https://www.kaggle.com/d
 
 For detailed walkthrough, please view the source code in order from:
 
-1. [Exploratory Data Analysis]()
-2. [Adaptive Boost Model]()
-3. [Forest Of Randomized Trees]()
-4. [Histogram Gradient Boosting Model]()
+1. [Exploratory Data Analysis](https://github.com/Revold1/SC1015-AirBNB/blob/main/EDA.ipynb)
+2. [Adaptive Boost Model](https://github.com/Revold1/SC1015-AirBNB/blob/main/AdaBoost%20Regression%20Model.ipynb)
+3. [Forest Of Randomized Trees](https://github.com/Revold1/SC1015-AirBNB/blob/main/ForestofRandomisedTrees.ipynb)
+4. [Histogram Gradient Boosting Model](https://github.com/Revold1/SC1015-AirBNB/blob/main/histgradboosting.ipynb)
 
-Helper Functions ()  
+[Helper Functions] (https://github.com/Revold1/SC1015-AirBNB/blob/main/helper_functions.py)  
   
 ## Contributors
 
